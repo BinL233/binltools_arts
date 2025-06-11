@@ -1,8 +1,17 @@
 [
     {
-        "name": "Domino Arts 1",
+        "name": "BinLTools - Domino",
         "date": "Jun 9, 2025",
         "artist": "BinL",
-        "path": "domino_art_1.png"
+        "path": "domino_art_1.png",
+        "note": "Website main character."
+    },
+
+    {
+        "name": "Re:Zero - Rem",
+        "date": "Jan 28, 2017",
+        "artist": "BinL",
+        "path": "rem.png",
+        "note": "Painted from Pixiv."
     }
 ]
