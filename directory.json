@@ -1,9 +1,8 @@
-{
-    [
-        {
-            "name": "Domino Arts 1",
-            "date": "Jun 9, 2025",
-            "Artist": "BinL"
-        }
-    ]
-}
+[
+    {
+        "name": "Domino Arts 1",
+        "date": "Jun 9, 2025",
+        "artist": "BinL",
+        "path": "domino_arts_1.png"
+    }
+]
